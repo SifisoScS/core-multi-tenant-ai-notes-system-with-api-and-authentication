@@ -1,0 +1,10 @@
+{
+  "name": "core-multi-tenant-ai-notes-system-with-api-and-authentication",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  }
+}
